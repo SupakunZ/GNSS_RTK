@@ -16,5 +16,5 @@ This program is a program developed for research projects related to unmanned ae
 <img src="https://github.com/SupakunZ/GNSS_RTK/assets/168329218/9d1c6172-f1e7-482b-804c-a12da48d5eb3" alt="status" width="375"/> <img src="https://github.com/SupakunZ/GNSS_RTK/assets/168329218/3426ee5a-7d3b-4fae-a394-a6bb6d542cb0" alt="settings" width="375"/>
 
 ## Flow Chart
-![Flow Chart](https://github.com/SupakunZ/GNSS_RTK/assets/168329218/4323387b-3ea9-4794-96f7-649031daab41)
+<img src="https://github.com/SupakunZ/GNSS_RTK/assets/168329218/4323387b-3ea9-4794-96f7-649031daab41" alt="status" width="750"/>
 
