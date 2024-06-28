@@ -51,13 +51,15 @@ This program is a program developed for research projects related to unmanned ae
 1. Clone this repository :
 
 ```bash
-git clone https://github.com/SupakunZ/Tesla_Clone.git
+git clone https://github.com/SupakunZ/GNSS_RTK.git
 ```
 
-2. Navigate to the project folder and install dependencies :
+2. Navigate to the project folder and see how to install the dependencies :
 
 ```
-cd Tesla_Clone
-npm install
+cd GNSS_RTK
+cd documentation
+cd Documentation.pdf 
 ```
+--> **`Documentation.pdf`** is a document that tells you in detail how to install the program. If you want to install instructions for other software used in this project, access file **`Appendix.pdf`**.
 
