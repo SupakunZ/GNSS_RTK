@@ -41,9 +41,10 @@ This program is a program developed for research projects related to unmanned ae
 ## 🚦 Features
 
   <ul>
-      <li>Active navbar similar to original</li>
-      <li>Smooth scrolling like original</li>
-      <li>Responsive with all devices</li>
+      <li>Identify your current location in real time.</li>
+      <li>A vehicle's route can be created following a specified route.</li>
+      <li>Can change the display of the map.</li>
+      <li>Tell the distance of the car to the nearest point, which must be at least 10 m, but if it's lower, it will indicate the next location.</li>
   </ul>
 
   ## 🚧 Installation
@@ -61,5 +62,5 @@ cd GNSS_RTK
 cd documentation
 cd Documentation.pdf 
 ```
---> **`Documentation.pdf`** is a document that tells you in detail how to install the program. If you want to install instructions for other software used in this project, access file **`Appendix.pdf`**.
+--> **`Documentation.pdf`** is a document that tells you in detail how to install the program. If you want to install instructions for other software used in this project, access file **`Appendix.pdf`** and you can see the results of the program at **`Result GnssRTK.mp4`** within the test folder.
 
